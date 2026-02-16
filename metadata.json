@@ -1,0 +1,8 @@
+{
+  "name": "SocialConnect",
+  "description": "A modern social media interface featuring a responsive feed, stories, and interactive post elements inspired by popular platforms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
